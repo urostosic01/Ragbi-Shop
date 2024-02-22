@@ -52,3 +52,9 @@ Osnovna inspiracija su bili već postojeći sajtovi poput PlanetaSport, SportVis
 <p align="center">
   <img src="https://github.com/urostosic01/Ragbi-Shop/blob/main/WebShop_db.PNG" alt="db_shema">
 </p>
+
+### Izgled korisničke stranice
+<p align="center">
+  <img src="https://github.com/urostosic01/Ragbi-Shop/blob/main/webshop-img1.PNG" alt="db_shema">
+</p>
+
